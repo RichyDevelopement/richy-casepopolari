@@ -28,7 +28,3 @@ CasaPopolare = {
 		weight = 5,
 		close = true,
 	},
-
-## PREVIEW
-
-https://streamable.com/bqfkv8
