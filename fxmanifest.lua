@@ -4,7 +4,7 @@ lua54 'yes'
 
 Descrizione 'Sistema case popolari'
 
-Autore '𝗞𝗥𝗦® '
+Autore 'RICHY DEVELOPEMENT '
 
 Discord 'https://discord.gg/wM4XDaXfU8' -- 𝗞𝗥𝗦®  --
 
