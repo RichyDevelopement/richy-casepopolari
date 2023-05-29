@@ -6,7 +6,7 @@ Descrizione 'Sistema case popolari'
 
 Autore 'RICHY DEVELOPEMENT '
 
-Discord 'https://discord.gg/wM4XDaXfU8' -- 𝗞𝗥𝗦®  --
+Discord 'https://discord.gg/richydev' 
 
 shared_script "@es_extended/imports.lua"
 shared_script '@ox_lib/init.lua'
