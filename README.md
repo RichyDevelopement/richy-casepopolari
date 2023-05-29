@@ -1,5 +1,6 @@
 ## RICHY CASE POPOLARI
 
+[https://discord.gg/](https://discord.gg/richydev)
 
 
 ## DIPENDENZE:
